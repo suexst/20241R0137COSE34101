@@ -10,7 +10,10 @@ simulation 방법
 # 수정 가능한 parameter
 ****
 num of process
+
 max # of burst time
+
 max # of arrival time
+
 time quantum
 ****
