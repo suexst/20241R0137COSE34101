@@ -7,11 +7,10 @@ simulation 방법
 
 3. 실행 완료
 
+# 수정 가능한 parameter
 ****
-# of process
+num of process
 max # of burst time
 max # of arrival time
 time quantum
-
-위 parameter들은 수정 가능합니다
 ****
